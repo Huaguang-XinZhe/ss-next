@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "generatorVersion": "0.0.0",
+  "generatedAt": "2025-10-25T15:14:12.507Z",
+  "outputPath": "C:\\Users\\24750\\Downloads\\Supastarter-sep2025\\supastarter-nextjs-main\\packages\\database\\prisma\\zod",
+  "files": [
+    "index.ts"
+  ],
+  "directories": [],
+  "singleFileMode": true,
+  "singleFileName": "index.ts"
+}

@@ -73,7 +73,7 @@
 		"zod": "^4.1.12"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.3.0",
+		"@biomejs/biome": "2.3.1",
 		"@content-collections/core": "^0.11.1",
 		"@content-collections/mdx": "^0.2.2",
 		"@content-collections/next": "^0.2.8",
@@ -82,7 +82,7 @@
 		"@repo/auth": "workspace:*",
 		"@repo/tailwind-config": "workspace:*",
 		"@repo/tsconfig": "workspace:*",
-		"@shikijs/rehype": "^3.13.0",
+		"@shikijs/rehype": "^3.14.0",
 		"@tailwindcss/postcss": "^4.1.16",
 		"@types/js-cookie": "^3.0.6",
 		"@types/mdx": "^2.0.13",

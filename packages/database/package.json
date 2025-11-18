@@ -1,7 +1,7 @@
 {
 	"dependencies": {
 		"@paralleldrive/cuid2": "^3.1.0",
-		"@prisma/client": "6.18.0",
+		"@prisma/client": "6.19.0",
 		"@repo/config": "workspace:*",
 		"drizzle-orm": "^0.44.7",
 		"drizzle-zod": "0.8.3",

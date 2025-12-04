@@ -6,11 +6,11 @@
 		"@repo/utils": "workspace:*"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.3.0",
+		"@biomejs/biome": "2.3.8",
 		"@repo/tsconfig": "workspace:*",
-		"@types/node": "^24.9.1",
+		"@types/node": "^24.10.1",
 		"nanoid": "^5.1.6",
-		"tsx": "^4.20.6"
+		"tsx": "^4.21.0"
 	},
 	"name": "@repo/scripts",
 	"private": true,
